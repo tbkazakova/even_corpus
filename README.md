@@ -3,7 +3,12 @@ There are files for creating Bystraja Even Corpus.
 
 It is my thesis and a project of our expedition team from HSE.
 
-There are some drafts.
+Now there are some drafts.
+
+Directory "apertium-eve" contains:
+- eve.lexd which describes morphological word structure
+- eve.twol with some morphophonological rules
+- Programm for getting morphological tags and segmentation of the Even word
 
 Directory "morphtags2glossing" contains:
 - Programm for preprocessing of the Even dictionary. It gets one-word Russian translations for Even word stems.

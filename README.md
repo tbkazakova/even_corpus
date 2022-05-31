@@ -17,3 +17,6 @@ Now there are some drafts.
 
 ### Program "txt2json":
 - Program for turning txt files with annotated sentences into special tsakorpus json format
+
+### Directory "json_texts" contains:
+Texts in json files for the corpus

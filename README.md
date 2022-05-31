@@ -15,5 +15,5 @@ Now there are some drafts.
 - eve.twol with some morphophonological rules
 - Program for getting morphological tags and segmentation of the Even word and turning morphological tags into usual gloss anotation
 
-### Directory "txt2json":
+### Program "txt2json":
 - Program for turning txt files with annotated sentences into special tsakorpus json format

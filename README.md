@@ -13,8 +13,7 @@ Now there are some drafts.
 ### Directory "apertium-eve" contains:
 - eve.lexd which describes morphological word structure
 - eve.twol with some morphophonological rules
-- Program for getting morphological tags and segmentation of the Even word
-- Programm for turning morphological tags into usual gloss anotation
+- Program for getting morphological tags and segmentation of the Even word and turning morphological tags into usual gloss anotation
 
 ### Directory "txt2json":
-- Program for turning txt files with annotated sentences into spesial tsakorpus json format
+- Program for turning txt files with annotated sentences into special tsakorpus json format

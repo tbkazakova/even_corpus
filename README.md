@@ -13,7 +13,8 @@ It is my thesis and a project of our expedition team from HSE.
 - eve.twol with some morphophonological rules
 - Program for getting morphological tags and segmentation of the Even word and turning morphological tags into usual gloss anotation
 
-### Directory "dict_processing":
+### Directory "newspaper_annotation":
+- Program for processing texts and getting frequency word list.
 - Program for processing texts and getting morphological annotation.
 
 ### Program "txt2json":

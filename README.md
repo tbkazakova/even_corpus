@@ -3,8 +3,6 @@ There are files for creating Bystraja Even Corpus.
 
 It is my thesis and a project of our expedition team from HSE.
 
-Now there are some drafts.
-
 ### Directory "dict_processing":
 - Program for processing of the Even dictionary. It gets one-word Russian translations for Even word stems.
 - Program for getting POS tas for Even words using one-word Russian translations.

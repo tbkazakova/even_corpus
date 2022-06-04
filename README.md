@@ -1,5 +1,5 @@
 # even_corpus
-There are files for creating Bystraja Even Corpus.
+Here are files for creating Bystraja Even Corpus.
 
 It is my thesis and a project of our expedition team from HSE.
 
@@ -11,7 +11,7 @@ It is my thesis and a project of our expedition team from HSE.
 ### Directory "apertium-eve":
 - eve.lexd which describes morphological word structure
 - eve.twol with some morphophonological rules
-- Program for getting morphological tags and segmentation of the Even word and turning morphological tags into usual gloss anotation
+- Program for getting morphological tags and segmentation of the Even word and for turning morphological tags into usual gloss anotation
 
 ### Directory "newspaper_annotation":
 - Program for processing texts and getting frequency word list.

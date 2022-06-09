@@ -25,3 +25,6 @@ It is my thesis and a project of our expedition team from HSE.
 
 ### Directory "json_texts":
 - Texts in json files for the corpus
+
+### Directory "eaf":
+- eaf and mp3 files for the texts with audio
